@@ -1,0 +1,6 @@
+{
+  "alldocs_url": "http://localhost:5984/samgentle/_all_docs?endkey=%22posts/%22&startkey=%22posts/A%22&descending=true&limit=1&include_docs=true",
+  "view_url": "http://localhost:5984/samgentle/_design/app/_view/bytype?endkey=%5B%22posts%22%5D&startkey=%5B%22posts%22,%7B%7D%5D&descending=true&limit=1",
+  "update_url": "http://localhost:5984/samgentle/",
+  "date_prop": "created"
+}
